@@ -27,3 +27,40 @@ bangtal 라이브러리를 사용하였다.
 [[bangtal 카페]](https://cafe.naver.com/bangtal?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D29980462%2526articleid%3D4%2526referrerAllArticles%3Dtrue)
 
 ### 스크린 샷
+![image](https://user-images.githubusercontent.com/48724199/93713853-982ee680-fb99-11ea-8974-daf0d4185b70.png)
+게임의 시작화면입니다. 마우스로 클릭하면 액션을 할 수 있습니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713858-a4b33f00-fb99-11ea-8c50-e6f7cf36339e.png)
+문을 클릭하여 연 모습.
+
+![image](https://user-images.githubusercontent.com/48724199/93713865-ad0b7a00-fb99-11ea-9f4a-4b92f36286ba.png)
+열린 문을 통해 나온 모습. 버스 정류장으로 이동했습니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713871-b4cb1e80-fb99-11ea-9fc8-7c6a0ffbc0d5.png)
+표지판을 클릭하자 버스가 왔습니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713879-c01e4a00-fb99-11ea-899a-61edd754255e.png)
+버스를 클릭하여 애플 매장으로 이동했습니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713883-cd3b3900-fb99-11ea-8abf-31f6f3089f19.png)
+맥북을 구매하려면 지갑을 가져왔어야 합니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713892-d9bf9180-fb99-11ea-8959-8c602df66fb5.png)
+EXIT를 클릭하여 다시 버스를 타러 나온 모습.
+
+![image](https://user-images.githubusercontent.com/48724199/93713899-e3e19000-fb99-11ea-969c-0d9402803112.png)
+똑같이 표지판을 클릭하면 버스가 옵니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713910-f1971580-fb99-11ea-8ab5-b3895f630c03.png)
+버스를 타고 방으로 돌아와서 두고 온 지갑을 챙깁니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713917-fb207d80-fb99-11ea-9e44-730c5ea814a5.png)
+다시 버스를 타고 애플 매장에 와서 결제를 합니다. 정확한 맥북의 가격을 결제하면 구매할 수 있습니다.
+
+![image](https://user-images.githubusercontent.com/48724199/93713925-0bd0f380-fb9a-11ea-8ed8-f884e51b24e1.png)
+맥북의 구매에 성공!
+
+![image](https://user-images.githubusercontent.com/48724199/93713928-13909800-fb9a-11ea-86cb-4cf988207e05.png)
+맥북을 가지고 집으로 돌아오면 게임이 클리어됩니다.
+
+버튼을 누르면 게임이 종료됩니다.
